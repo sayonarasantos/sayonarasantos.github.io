@@ -1,3 +1,3 @@
 # sayonarasantos.github.io
-Website CV
+CV
 https://sayonarasantos.github.io/
